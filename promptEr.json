@@ -1,11 +1,15 @@
 {
-  "validKeys": [
-    "MUHAMMAD-WALID-OWNER",
-    "K7X9-QP2M-VB4R"
-  ],
-  "revokedKeys": [
-    "OLD-KEY-EXPIRED"
-  ]
+  "users": [
+    {
+  "name": "Muhammad Walid",
+  "keyHash": "f13e6c184a2a6268bb78bd570823d91fb3423f8274b8619ec13dca9e1d8ee73b"
+},{
+  "name": "Saifur Rahman",
+  "keyHash": "6293546dd9b729d1e8b272639d40b6d0b13d46f4e9dfe63ac793b20f468fb2ac"
+},{
+  "name": "Shazzadul Haque",
+  "keyHash": "605fe8a4b2ce826f5690a11855b385e0712fd086a0ea939a6dd60ee8c0a8db23"
 }
-
-
+  ],
+  "revokedHashes": []
+}
